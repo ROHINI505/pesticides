@@ -14,4 +14,4 @@ A system that provides details to farmers about the market price of the crop gro
 
 # Output
 
-https://dedepya.github.io/AGRI-GAIN/
+
